@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋 🫂
 
-<!--
-**Alcrex/Alcrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science and Technology student interested in **C/C++, Python**.
 
-Here are some ideas to get you started:
+Currently learning and building with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **C / C++ / Python**
+* Data Structures & Algorithms
+* AI / LLM applications and tooling
+
+Currently preparing for graduate school while exploring and pursuing my interests in AI.
+
+**Website:** [alcrex.github.io](alcrex.github.io)
+**Email:** [gufengming1217@gmail.com](gufengming1217@gmail.com)
+
+> Only one that really knows me is the mirror on the wall.
