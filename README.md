@@ -16,4 +16,4 @@ Currently preparing for graduate school while exploring the field of AI and buil
 
 **Email:** [gufengming1217@gmail.com](gufengming1217@gmail.com)
 
-> Only one that really knows me is the mirror on the wall.
+> ***Only one that really knows me is the mirror on the wall.***
